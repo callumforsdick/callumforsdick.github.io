@@ -1,0 +1,26 @@
+body{
+	margin: 5% 10% 0% 10%;
+	background-color: #333;
+	font-family: sans-serif;
+	letter-spacing: 1px;
+	font-size: 15px;
+	font-weight: 100;
+	color: white;
+}
+ul li{
+	list-style: none;
+	text-decoration: none;
+	text-transform: none;
+	padding: 10px;
+}
+a, a:visited{
+	text-decoration: none;
+	text-transform: none;
+	color: #46bdeb;
+}
+h1{
+	color: #f5266e;
+}
+h2{
+	color: #f5266e;
+}
